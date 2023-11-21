@@ -298,7 +298,8 @@ h4{
     position: absolute;
     right: 70px;
     left: 1px
-    width: 1px;
+    width
+
 }
 .footer-col-3, .footer-col-4{
     text-align: center;
