@@ -1,4 +1,6 @@
-
+html{
+    scroll-behavior: smooth;
+}
 *{
     margin: 0;
     padding: 0;
@@ -89,7 +91,7 @@ nav ul li a{
     right: 10%;
 }
 .fimg.anim{
-    animation-delay: 1.5s;
+    animation-delay: 1s;
 }
 .anim{
     opacity:0 ;
